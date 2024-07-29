@@ -9,5 +9,5 @@
 *.o
 *.so
 #Ignorar entorno virtual
-entorno_virtual/
+entorno_practica/
 
