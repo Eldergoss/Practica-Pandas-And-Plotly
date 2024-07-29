@@ -1,0 +1,13 @@
+# Ignorar archivos de logs
+*.log
+
+# Ignorar archivos de sistema
+*.DS_Store
+
+# Ignorar archivos compilados
+*.exe
+*.o
+*.so
+#Ignorar entorno virtual
+entorno_virtual/
+
