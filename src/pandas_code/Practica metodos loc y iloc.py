@@ -22,8 +22,8 @@ df = pd.DataFrame(index=names, data={
 #print("La altura de Cristiano Ronaldo es:", criss_info[["height_cm", "nationality"]], "cm")
 #print("La nacionalidad de Cristiano Ronaldo es:", criss_info['nationality'])
 #print([df.age , df.club])
-print ("busqueda de ronaldo por metodo loc")
+print ("busqueda de ronaldo por metodo loc")#usa etiquetas
 print(df.loc["Cristiano Ronaldo" ,["age","club"]])
 
-print ("busqueda de ronaldo por metodo iloc")
+print ("busqueda de ronaldo por metodo iloc")#usa las posiciones
 print(df.iloc[1 ,[ 0 , 3]])

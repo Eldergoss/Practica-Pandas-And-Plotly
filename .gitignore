@@ -10,4 +10,5 @@
 *.so
 #Ignorar entorno virtual
 entorno_practica/
+pandas_code/
 
